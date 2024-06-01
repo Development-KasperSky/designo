@@ -1,4 +1,4 @@
-# Designo Software Agency
+# Nakamura Araki Software Agency
 
 This is a solution to the [Designo multi-page website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/designo-multipage-website-G48K6rfUT). Frontend Mentor challenges help you improve your coding skills by building realistic and beautiful projects.
 
